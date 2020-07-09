@@ -1,4 +1,4 @@
-![Hello](./hello.gif)
+![Hello](https://github.com/godcrampy/godcrampy/raw/master/hello.gif)
 
 I am a passionate web and mobile engineer. Currently, I am pursuing Bachelors in Computer Engineering from NIT, Surat. I love writing code and making things happen!
 
