@@ -6,6 +6,8 @@ I am a passionate web and mobile engineer. Currently, I am pursuing Bachelors in
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godcrampy&layout=compact)
 
+![](https://hit.yhype.me/github/profile?user_id=42311546)
+
 A few links:
 - 🚀 [Website](https://sahil.surge.sh)
 - 🖋️ [Blog](https://dev.to/godcrampy)
