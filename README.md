@@ -1,6 +1,6 @@
 ![Hello](https://github.com/godcrampy/godcrampy/raw/master/hello.gif)
 
-I am a passionate web and mobile engineer. Currently, I am pursuing Bachelors in Computer Engineering from NIT, Surat. I love writing code and making things happen!
+I am a third-year computer engineering undergraduate pursuing my bachelor's degree from NIT Surat. I've worked professionally as a full-stack web engineer. I specialize in MERN (Mongo DB, React, Express, Node) stack. I also have experience in working with Mobile Development with Flutter.
 
 ![godcrampy's github stats](https://github-readme-stats.vercel.app/api?username=godcrampy&count_private=true&show_icons=true)
 
