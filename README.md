@@ -2,14 +2,14 @@
 
 ### 👨‍💻 `whoami`
 
-- 🇮🇳 I am a **Software Engineer** based in India.
+- 🇬🇧 I am a **Software Engineer** based in the UK.
 - 🌱 I love **Engineering Systems** and **Building Products**.
-- ⚙️ I am writing a lot of **Typescript** and **Go** these days.
-- 📦 Open Source at [![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
+- ⚙️ I write a lot of **Java** and **Go** these days.
+- 📦 Did open-source at [![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 - 💳 Interned at ![Deutsche Bank](https://img.shields.io/badge/Deutsche%20Bank-0018A8?style=flat-square&logo=deutschebank&logoColor=white)
-- 🧑‍🎓 Graduating from **NIT Surat** in Summer 2022.
+- 🧑‍🎓 Graduated from **NIT Surat** in 2022 with Bachelor's Degree in Computer Engineering.
 - 📜 I write **[blogs](https://dev.to/godcrampy)** on **Software Engineering** and **Computer Science**.
-- 🖍️ I like **Board Games**, **Teaching** and **Finance**.
+- 🖍️ I like **Board Games**, **Teaching** and **History**.
 
 ### 🤝 Reach out to Me
 
@@ -18,11 +18,11 @@
 [![GitHub godcrampy](https://img.shields.io/badge/godcrampy-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/godcrampy)
 [![Website](https://img.shields.io/badge/sahil.surge.sh-005AF0?style=for-the-badge&logo=amp&logoColor=white)](https://sahil.surge.sh)
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/godcrampy)
-[![Instagram](https://img.shields.io/badge/sahil.bondre-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sahil.bondre/)
+<!-- [![Instagram](https://img.shields.io/badge/sahil.bondre-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sahil.bondre/) -->
 
 - ✉️  **Email:** To get my email paste: `c2FoaWxib25kcmVAZ21haWwuY29t` [here](https://www.base64decode.org/) or [here](https://emn178.github.io/online-tools/base64_decode.html). I've Base 64 encoded my email address to keep it safe from email scrapping bots.
-- 📄 [**Resume**](https://drive.google.com/file/d/1YlDdQN5NadJ8GxjyIg2n3tbIoHLaAlfp/view?usp=sharing)
-- 🤙 [**Schedule a Call**](https://calendly.com/sahilbondre/30min)
+- 📄 [**Resume**](https://drive.google.com/file/d/1d1mJBkVCVlpySKlrsv6r2rtpKOMseRY2/view?usp=sharing)
+<!-- - 🤙 [**Schedule a Call**](https://calendly.com/sahilbondre/30min) -->
 
 ### ⚡ Skills
 
