@@ -2,9 +2,9 @@
 
 ![Hello](./hello.gif)
 
-- 🇬🇧 I am a **Software Engineer** at Goldman Sachs, UK.
+- 🇬🇧 I am a **Software Engineer** based in UK.
 - 🌱 I love **Engineering Systems** and **Building Products**.
-- ⚙️ I am writing **Java** and **JavaScript** these days.
+- ⚙️ I am writing a lot of **Java** these days.
 - 🧑‍🎓 Graduated from **NIT Surat** in 2022.
 ![](https://hit.yhype.me/github/profile?user_id=42311546)
 
